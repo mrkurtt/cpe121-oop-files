@@ -1,5 +1,3 @@
-//Timajo, Kurt Vincent
-//CpE-1C
 package AreaPerimeter;
 public class Rectangle {
     public double length, width;
