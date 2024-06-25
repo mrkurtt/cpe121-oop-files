@@ -1,5 +1,3 @@
-//Timajo, Kurt Vincent
-//CpE-1C
 package AreaPerimeter;
 public class RightTriangle {
     public double base, height;
